@@ -1,0 +1,3 @@
+﻿in command prompt create mvc project
+write 'dotnet new mvc -n mvctask'
+add a image in index.cshtml folder
